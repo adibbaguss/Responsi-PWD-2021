@@ -1,0 +1,29 @@
+.card:hover {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.card:active {
+  background-color: #f2f2f2f2;
+}
+
+.card-img-top {
+  padding: 30px;
+}
+
+.card-img-top:hover {
+  padding: 0px;
+}
+
+.alert {
+  padding: 20px;
+  background-color: #f44336; /* Red */
+  color: white;
+  margin-bottom: 15px;
+}
+
+.text-home {
+  font-size: 45px;
+}
+.text-home:hover {
+  font-size: 70px;
+}
